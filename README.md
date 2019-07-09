@@ -6,3 +6,8 @@ and add in my own additional functions, as well as transition all the FXML and C
 to Kotlin and type-safe CSS.
 
 https://github.com/edvin/calculator
+
+Todo:
+-Add in decimal support
+-Add in plus/minus functionality
+-Add in an equation history
